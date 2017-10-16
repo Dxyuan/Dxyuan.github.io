@@ -1,8 +1,8 @@
 {
-    "name": "lpc-win32-blog",
-    "title": "Lpc-Win32 Blog",
+    "name": "Dxyuan-blog",
+    "title": "Dxyuan Blog",
     "version": "1.0.0",
-    "homepage": "http://lpc-win32.github.io",
+    "homepage": "http://Dxyuan.github.io",
     "author": "Hux",
     "devDependencies": {
         "grunt": "~0.4.5",
@@ -13,7 +13,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/lpc-win32/lpc-win32.github.io"
+        "url": "https://github.com/Dxyuan/Dxyuan.github.io"
     },
     "scripts": {
         "preview": "cd _site; python -m SimpleHTTPServer 8020",
