@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "深入理解C++11（笔记）：第四章 新兵易学，老兵易用"
+title:      "dxy test"
 subtitle:   " \"Use c++11 for fun.\""
 date:       2017-01-25 13:39
 header-img: "img/post-bg-2015.jpg"
