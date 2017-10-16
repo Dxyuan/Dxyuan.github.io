@@ -1,5 +1,5 @@
-# lpc-win32.github.io
-> Author : Pengcheng Liu  
-e-mail : 312041933@qq.com  
+# Dxyuan.github.io
+> Author : Xinyuan Du
+e-mail : 1031163934@qq.com  
 
 Welcome to exchange with me!  
