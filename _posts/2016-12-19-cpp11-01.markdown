@@ -1,12 +1,8 @@
 ---
-layout:     post
-title:      "深入理解C++11（笔记）：第一章 新标准的诞生"
-subtitle:   " \"First step.\""
-date:       2016-12-19 13:39
-header-img: "img/post-bg-2015.jpg" 
-tags:
-    - c++
-    - c++11
+layout: post
+title:  "深入理解C++11（笔记）：第一章 新标准的诞生"
+date:   2016-12-19 13:39
+categories: c++11
 ---
 
 ### 说在前面
