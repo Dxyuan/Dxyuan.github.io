@@ -20,21 +20,22 @@ tags:
 
 ```cpp
     const static int Male = 0;
-        const static int Female = 1;
-        ```
+    const static int Female = 1;
+```
 
 #### 5.1.2 强类型枚举以及C\+\+11对原有枚举类型的扩展
 
-        > 非强类型作用域，允许饮食转换为整形，占用存储空间以及符号性不确定，都是枚举类的缺点
+> 非强类型作用域，允许饮食转换为整形，占用存储空间以及符号性不确定，都是枚举类的缺点
 
-        ```cpp
-        // 声明强类型美剧非常简单，只需要在enum后加上关键字class
-        enum class Type { General, Light, Medium, Heavy };
-
+```cpp
+// 声明强类型枚举非常简单，只需要在enum后加上关键字class
+   enum class Type { General, Light, Medium, Heavy };
+```
 强类型枚举具有以下几点优势：
 · 强作用域，强类型美剧成员的名称不会被输出到其父作用域空间。
 · 转换限制，强类型枚举成员的值不可以与整型隐式相互转化
 · 可以制定底层类型，比如：
+```cpp
 enum class Type:char {General, Light, Medium, Heavy};
 ```
 
