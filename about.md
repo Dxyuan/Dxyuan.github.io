@@ -9,7 +9,7 @@ Dxyuan.github.io
 
 <p>
 e-mail : 1031163934@qq.com <br>
-WeChat ：17666123219 <br>
+WeChat ：17666123219 <br><br>
 Welcome to exchange with me! <br>
 </p> 
 
