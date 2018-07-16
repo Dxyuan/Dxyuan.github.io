@@ -8,13 +8,9 @@ Dxyuan.github.io
 </p> 
 
 <p>
-e-mail : 1031163934@qq.com
-</p>
-<p>
-WeChat ：17666123219
-</p>
-<p>
-Welcome to exchange with me!
+e-mail : 1031163934@qq.com <br>
+WeChat ：17666123219 <br>
+Welcome to exchange with me! <br>
 </p> 
 
 
